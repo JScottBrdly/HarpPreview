@@ -8,4 +8,4 @@ Preview Edition only generates html ouput locally. This includes the output and 
 
 ## Special Thanks
 
-Thanks again to the creator for building a better way to read a book online, which in this case is a better preview that Amazon uses for ebook. 
+Thanks again to the creator for building a better way to read a book online, which in this case is better than what Amazon uses for ebooks. 
